@@ -18,7 +18,7 @@
 | **Enrollment No.** | 12023052017065 |
 | **Stream** | CSE (IOT-CSBT) |
 | **Course** | Python Automation |
-| **Repository** | `Rhythm_Saha_Wipro_Python_Automation` |
+| **Repository** | `Wipro_Python_Automation` |
 
 ### 🎥 Live Capstone Demonstration
 
